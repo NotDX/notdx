@@ -6,8 +6,6 @@
 
 ## PERSONAL INFORMATION 
 
-![Image](https://github.com/NotDX/notdx/blob/main/1.JPG)
-
 - 🇨🇳
 
 - 📧 **grinnerinvincible@gmail.com**
