@@ -4,3 +4,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [Personal Homepage of Xin Du]
 description: [Hello there! Hope you have fun getting to know me!]
+logo: [https://github.com/NotDX/notdx/blob/main/1.JPG]
