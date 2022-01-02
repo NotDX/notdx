@@ -1,8 +1,8 @@
 # **Welcome to Xin Du's GitHub Page!**
 
-### ~~TALK IS CHEAP~~
+### *~~TALK IS CHEAP~~*
 
-### **SHOW ME THE CODE**
+### ***SHOW ME THE CODE***
 
 ## PERSONAL INFORMATION 
 
