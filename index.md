@@ -18,19 +18,19 @@
 
 ## PROJECTS
 
--*[Truck Recognition](https://github.com/NotDX/Truck-Recognition)*
+- *[Truck Recognition](https://github.com/NotDX/Truck-Recognition)*
 
--*[Smart Matching System for Pets and Customers](https://github.com/NotDX/Smart-Matching-System-for-Pets-and-Customers)*
+- *[Smart Matching System for Pets and Customers](https://github.com/NotDX/Smart-Matching-System-for-Pets-and-Customers)*
 
--*[Speech Recognition System](https://github.com/NotDX/Speech-Recognition-System)*
+- *[Speech Recognition System](https://github.com/NotDX/Speech-Recognition-System)*
 
--*[Linux IPC](https://github.com/NotDX/Linux_kernel)*
+- *[Linux IPC](https://github.com/NotDX/Linux_kernel)*
 
--*[Boolean Retrieval System](https://github.com/NotDX/Boolean-retrieval-system)*
+- *[Boolean Retrieval System](https://github.com/NotDX/Boolean-retrieval-system)*
 
--*[HMM Pinyin Input Method](https://github.com/NotDX/HMM_pinyin_input_method)*
+- *[HMM Pinyin Input Method](https://github.com/NotDX/HMM_pinyin_input_method)*
 
--*[MINST Handwritten Dataset Recognition](https://github.com/NotDX/minst)*
+- *[MINST Handwritten Dataset Recognition](https://github.com/NotDX/minst)*
 
 If you have any questions about my projects, pleasse do not hesitate to contact me! 👻
 
