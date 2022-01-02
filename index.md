@@ -1,37 +1,83 @@
-## Welcome to GitHub Pages
+# **Welcome to Xin Du's GitHub Page!**
 
-You can use the [editor on GitHub](https://github.com/NotDX/notdx/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### ~~TALK IS CHEAP~~
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### **SHOW ME THE CODE**
 
-### Markdown
+## PERSONAL INFORMATION 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image](https://github.com/NotDX/notdx/blob/main/1.JPG)
 
-```markdown
-Syntax highlighted code block
+:cn:
 
-# Header 1
-## Header 2
-### Header 3
+:e-mail: **grinnerinvincible@gmail.com**
 
-- Bulleted
-- List
+:iphone: **+86 18059821317**
 
-1. Numbered
-2. List
+:mailbox:  **Siming South Road 422, Xiamen University, Siming District, Xiamen, Fujian Province, China, 361005.**
 
-**Bold** and _Italic_ and `Code` text
+## PROJECTS
 
-[Link](url) and ![Image](src)
-```
+-*[Truck Recognition](https://github.com/NotDX/Truck-Recognition)*
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+-*[Smart Matching System for Pets and Customers](https://github.com/NotDX/Smart-Matching-System-for-Pets-and-Customers)*
 
-### Jekyll Themes
+-*[Speech Recognition System](https://github.com/NotDX/Speech-Recognition-System)*
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NotDX/notdx/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+-*[Linux IPC](https://github.com/NotDX/Linux_kernel)*
 
-### Support or Contact
+-*[Boolean Retrieval System](https://github.com/NotDX/Boolean-retrieval-system)*
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+-*[HMM Pinyin Input Method](https://github.com/NotDX/HMM_pinyin_input_method)*
+
+-*[MINST Handwritten Dataset Recognition](https://github.com/NotDX/minst)*
+
+If you have any questions about my projects, pleasse do not hesitate to contact me! :ghost:
+
+## SKILLS
+
+### PRGRAMMING
+
+1. Programming languages
+   - C/C++
+   - Python
+   - MATLAB
+
+2. Machine learning tools and libraries
+   - TensorFlow
+   - Pytorch
+   - Keras
+   - OpenCV
+   - Numpy
+   - Pandas
+   - Jupyter Notebook
+
+3. Database
+   - SQL
+
+### LANGUAGE
+
+Chinese 
+
+English 
+
+### HOBBIES/OTHERS SKILLS
+
+- playing instruments 
+  - piano
+  - guitar
+  - cucurbit
+
+- travelling
+
+- photography :camera:
+
+- **MOVIES!!!** :movie_camera:
+
+- **FOOD!!!** 
+
+
+
+
+
+
