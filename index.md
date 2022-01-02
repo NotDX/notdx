@@ -8,13 +8,13 @@
 
 ![Image](https://github.com/NotDX/notdx/blob/main/1.JPG)
 
-🇨🇳
+- 🇨🇳
 
-📧 **grinnerinvincible@gmail.com**
+- 📧 **grinnerinvincible@gmail.com**
 
-📱 **+86 18059821317**
+- 📱 **+86 18059821317**
 
-📫  **Siming South Road 422, Xiamen University, Siming District, Xiamen, Fujian Province, China, 361005.**
+- 📫  **Siming South Road 422, Xiamen University, Siming District, Xiamen, Fujian Province, China, 361005.**
 
 ## PROJECTS
 
@@ -57,9 +57,9 @@ If you have any questions about my projects, pleasse do not hesitate to contact 
 
 ### LANGUAGE
 
-Chinese 
+- Chinese 
 
-English 
+- English 
 
 ### HOBBIES/OTHERS SKILLS
 
