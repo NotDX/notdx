@@ -32,7 +32,7 @@
 
 -*[MINST Handwritten Dataset Recognition](https://github.com/NotDX/minst)*
 
-If you have any questions about my projects, pleasse do not hesitate to contact me! :ghost:
+If you have any questions about my projects, pleasse do not hesitate to contact me! 👻
 
 ## SKILLS
 
